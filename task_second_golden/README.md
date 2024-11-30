@@ -5,7 +5,7 @@
 As a pet owner, I want to discover and shop pet products for healthcare, food and others related to dogs and cats.
 As a pet products retailer, I want to create a product items and publish catelog in the site with instock quantity, price and location.
 
-Hosted Url: https://epetshop-app.herokuapp.com/
+
 
 ## Objective:
 
