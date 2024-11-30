@@ -43,15 +43,3 @@ The website will return a maximum of 6 news article related to the company on th
 
 The data is retrieved from Yahoo Finance API, Yahoo Finance API is a reliable source of stock market data. It also provides other financial information including market summaries, historical quotes, news feed and financial reports.
 
-### Demo
-
-![Demo](/frontend/public/imgs/demo1.png)
-![Demo](/frontend/public/imgs/demo2.png)
-![Demo](/frontend/public/imgs/demo3.png)
-
-## Code Contributors:
-
-- Deenu Yadav
-- Paulo H Correa
-- Stefan Salituro
-- Robin Swalm
